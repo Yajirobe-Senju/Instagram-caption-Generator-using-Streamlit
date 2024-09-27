@@ -18,6 +18,8 @@ Make sure it is compatible with your version of OS
 
 Open the files in VS code and the terminal within VS code, in there make sure to create a virtual environment using mini-conda. After that, copy the activation key and add it to the "Activation key" file, after removing the content the file already contains.
 
+to create a virtual environment type the following in the terminal `conda create -p <your environment name> python3.10 -y` and press enter.
+
 For streamlit open the terminal in VS code and after creating the Virtual environment; activate it as well and type in 
 
 `pip install streamlit`
