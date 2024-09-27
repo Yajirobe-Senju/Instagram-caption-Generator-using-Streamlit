@@ -20,6 +20,8 @@ Open the files in VS code and the terminal within VS code, in there make sure to
 
 to create a virtual environment type the following in the terminal `conda create -p <your environment name> python3.10 -y` and press enter.
 
+next install the requirements.txt file by typing `pip install -r requirements.txt` in the terminal after activting the environment.
+
 For streamlit open the terminal in VS code and after creating the Virtual environment; activate it as well and type in 
 
 `pip install streamlit`
